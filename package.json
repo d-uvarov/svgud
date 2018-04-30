@@ -5,6 +5,5 @@
   "homepage": "https://github.com/d-uvarov/svgud",
   "author": "Dmitry Uvarov (https://github.com/d-uvarov)",
   "license": "MIT",
-  "main": "index.js",
-  "dependencies": {},
+  "main": "index.js"
 }
